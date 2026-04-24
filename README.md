@@ -52,7 +52,7 @@ make
 
 
 ## Разработка
-**Автор:** Hudayberdiyev Hemraberdi 
+**Автор:** Tajibayew Yslam
 
 **Реализовано:**
 - Система аутентификации
